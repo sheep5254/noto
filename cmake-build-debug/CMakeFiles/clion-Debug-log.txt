@@ -1,0 +1,12 @@
+/snap/clion/377/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/377/bin/ninja/linux/x64/ninja -G Ninja -S /home/liufy/CLionProjects/untitled2 -B /home/liufy/CLionProjects/untitled2/cmake-build-debug
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rosidl_typesupport_c: 2.0.2 (/opt/ros/humble/share/rosidl_typesupport_c/cmake)
+CMake Error at /opt/ros/humble/share/rosidl_typesupport_c/cmake/get_used_typesupports.cmake:35 (message):
+  No 'rosidl_typesupport_c' found
+Call Stack (most recent call first):
+  /opt/ros/humble/share/rosidl_typesupport_c/cmake/rosidl_typesupport_c-extras.cmake:8 (get_used_typesupports)
+  /opt/ros/humble/share/rosidl_typesupport_c/cmake/rosidl_typesupport_cConfig.cmake:41 (include)
+  CMakeLists.txt:15 (find_package)
+
+
+-- Configuring incomplete, errors occurred!

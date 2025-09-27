@@ -1,0 +1,6 @@
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/uninstall.dir
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/untitled2_uninstall.dir
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/untitled2.dir
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/test.dir
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/edit_cache.dir
+/home/liufy/CLionProjects/untitled2/build/CMakeFiles/rebuild_cache.dir
